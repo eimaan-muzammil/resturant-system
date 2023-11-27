@@ -5,7 +5,8 @@ struct Item {
     char name[50];
     int quantity;
     float price;
-    float total;};
+    float total;
+};
 
 void printTitle() {
     printf("\t\t ============================\n");
