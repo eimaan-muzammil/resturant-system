@@ -8,7 +8,7 @@ struct Item {
     float total;
 };
 
-void printTitle() {
+void printTitle() {//Print details
     printf("\t\t ============================\n");
     printf("\t\t |   Welcome to Restaurant  |\n");
     printf("\t\t ============================\n");
