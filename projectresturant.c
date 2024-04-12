@@ -16,7 +16,7 @@ void printTitle() {//Print details
     printf("\t\t           ======\n");
 }
 
-void printMenu() {
+void printMenu() {//print menu
     printf("\n\n");
     printf("\n---------------------------------");
     printf("\n1. Kabab              -/70");
